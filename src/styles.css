@@ -1,0 +1,11 @@
+/* styles.css */
+.navbar-nav .nav-item {
+    margin-right: 15px;
+  }
+  
+  .cart-widget {
+    margin-left: auto; 
+    display: flex;
+   align-items: center;
+  }
+  
